@@ -192,7 +192,7 @@ $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 
 require 'plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-	'https://github.com/FIXONWEB/fixonweb-clean.git',
+	'https://github.com/FIXONWEB/fixonweb-clean',
 	__FILE__, 
 	'fixonweb-clean'
 );
